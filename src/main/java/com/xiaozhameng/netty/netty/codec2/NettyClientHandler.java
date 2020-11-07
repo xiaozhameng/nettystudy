@@ -1,6 +1,6 @@
 package com.xiaozhameng.netty.netty.codec2;
 
-import com.atguigu.netty.codec.StudentPOJO;
+import com.xiaozhameng.netty.netty.codec.StudentPOJO;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

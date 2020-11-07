@@ -618,7 +618,7 @@ public final class MyDataInfo {
                 MyMessage.class, Builder.class);
       }
 
-      // Construct using com.atguigu.netty.codec2.MyDataInfo.MyMessage.newBuilder()
+      // Construct using com.xiaozhameng.netty.netty.codec2.MyDataInfo.MyMessage.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -1531,7 +1531,7 @@ public final class MyDataInfo {
                 Student.class, Builder.class);
       }
 
-      // Construct using com.atguigu.netty.codec2.MyDataInfo.Student.newBuilder()
+      // Construct using com.xiaozhameng.netty.netty.codec2.MyDataInfo.Student.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -2171,7 +2171,7 @@ public final class MyDataInfo {
                 Worker.class, Builder.class);
       }
 
-      // Construct using com.atguigu.netty.codec2.MyDataInfo.Worker.newBuilder()
+      // Construct using com.xiaozhameng.netty.netty.codec2.MyDataInfo.Worker.newBuilder()
       private Builder() {
         maybeForceBuilderInitialization();
       }
@@ -2482,7 +2482,7 @@ public final class MyDataInfo {
       "kerH\000\"+\n\010DataType\022\017\n\013StudentType\020\000\022\016\n\nWo" +
       "rkerType\020\001B\n\n\010dataBody\"#\n\007Student\022\n\n\002id\030" +
       "\001 \001(\005\022\014\n\004name\030\002 \001(\t\"#\n\006Worker\022\014\n\004name\030\001 " +
-      "\001(\t\022\013\n\003age\030\002 \001(\005B(\n\030com.atguigu.netty.co" +
+      "\001(\t\022\013\n\003age\030\002 \001(\005B(\n\030com.xiaozhameng.netty.netty.co" +
       "dec2B\nMyDataInfoH\001b\006proto3"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =

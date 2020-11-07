@@ -1,6 +1,6 @@
 package com.xiaozhameng.netty.netty.dubborpc.provider;
 
-import com.atguigu.netty.dubborpc.netty.NettyServer;
+import com.xiaozhameng.netty.netty.dubborpc.netty.NettyServer;
 
 //ServerBootstrap 会启动一个服务提供者，就是 NettyServer
 public class ServerBootstrap {

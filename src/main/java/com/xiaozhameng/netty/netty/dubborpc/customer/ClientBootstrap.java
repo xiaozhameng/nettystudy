@@ -1,7 +1,7 @@
 package com.xiaozhameng.netty.netty.dubborpc.customer;
 
-import com.atguigu.netty.dubborpc.netty.NettyClient;
-import com.atguigu.netty.dubborpc.publicinterface.HelloService;
+import com.xiaozhameng.netty.netty.dubborpc.netty.NettyClient;
+import com.xiaozhameng.netty.netty.dubborpc.publicinterface.HelloService;
 
 public class ClientBootstrap {
 
